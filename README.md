@@ -29,6 +29,3 @@ Complete workflow for Ecommerce data analytics using **Excel → Python → SQL 
 - SQL analysis for KPIs  
 - Power BI dashboards for insights  
 
-👉 This concise version highlights the **pipeline and skills** without too much detail.  
-
-Would you like me to also add a **“Setup Instructions” section** (Python libraries, MySQL connector, Power BI import) so others can reproduce it quickly?
